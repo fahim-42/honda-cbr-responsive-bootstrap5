@@ -1,0 +1,31 @@
+/* custom font-family */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* custom-class */
+.bg-header{
+    background-color: #264653;
+}
+.nav-color{
+    color: white;
+}
+.bg-button{
+    background-color: #E76F51 !important;
+}
+.span-text{
+    color: #E76F51;
+}
+.greyscale{
+    filter: grayscale(100%);
+}
+.checked{
+    color: #E77C40;
+}
+.name{
+    color: #23A6F0;
+}
+.p-info{
+    color: #6C6C6C;
+}
